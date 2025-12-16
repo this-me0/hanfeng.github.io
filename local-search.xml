@@ -4,6 +4,25 @@
   
   
   <entry>
+    <title>解决部署hexo到github.io点击文章404的问题</title>
+    <link href="/2025/12/16/hexo/"/>
+    <url>/2025/12/16/hexo/</url>
+    
+    <content type="html"><![CDATA[<p>我也是查遍了网站没找到，最后自己琢磨出来的！！！</p><p>一定要把仓库名和自己的账号名保持一致！！！！不然点击链接跳转的时候会被重定向，就导致了 404</p><p><img src="https://p0-xtjj-private.juejin.cn/tos-cn-i-73owjymdk6/156f2eafb3c74ad198babeca9ae00ab6~tplv-73owjymdk6-jj-mark-v1:0:0:0:0:5o6Y6YeR5oqA5pyv56S-5Yy6IEAg6KW_X-eqlw==:q75.awebp?policy=eyJ2bSI6MywidWlkIjoiMTg5MzgwMzU2NjA0NDg3MyJ9&rk3s=f64ab15b&x-orig-authkey=f32326d3454f2ac7e96d3d06cdbb035152127018&x-orig-expires=1766458596&x-orig-sign=f7BCnCCxiqzvjchXT3O6jr56vs4=" alt="image.png"><br/><br>这是最开始的地址，点击就 404。<br/><br><strong>解决方法</strong><br/><br>点击 setting 吧仓库名改为账号同名即可</p><p><img src="https://p0-xtjj-private.juejin.cn/tos-cn-i-73owjymdk6/0f0744e69cbb4e039eff70d18d18e2f5~tplv-73owjymdk6-jj-mark-v1:0:0:0:0:5o6Y6YeR5oqA5pyv56S-5Yy6IEAg6KW_X-eqlw==:q75.awebp?policy=eyJ2bSI6MywidWlkIjoiMTg5MzgwMzU2NjA0NDg3MyJ9&rk3s=f64ab15b&x-orig-authkey=f32326d3454f2ac7e96d3d06cdbb035152127018&x-orig-expires=1766458596&x-orig-sign=20iKjMjUhiSaJL/uYr7sxK4vxbY=" alt="image.png"><br><a href="https://this-me0.github.io/">https://this-me0.github.io/</a></p>]]></content>
+    
+    
+    <categories>
+      
+      <category>部署hexo</category>
+      
+    </categories>
+    
+    
+  </entry>
+  
+  
+  
+  <entry>
     <title>Hello World</title>
     <link href="/2025/12/15/hello-world/"/>
     <url>/2025/12/15/hello-world/</url>
